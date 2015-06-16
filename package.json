@@ -1,7 +1,7 @@
 {
   "name": "hubot-huh",
   "description": "Random BOFH-style excuses",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Slobodan <slobodan@cloudhorizon.com>",
   "license": "MIT",
   "keywords": "hubot,hubot-scripts,random,bofh,excuse,generator",

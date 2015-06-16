@@ -18,7 +18,7 @@ excuse = require 'huh'
 
 module.exports = (robot) ->
   robot.respond /excuse/, (res) ->
-    res.reply excuse.get
+    res.reply excuse.get()
 
   robot.hear /excuse/, ->
-    res.send excuse.get
+    res.send excuse.get()
